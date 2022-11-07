@@ -1,8 +1,8 @@
 import { React, Component } from react;
 
 class QuizQuestion extends Component {
-	render () {
-		<main>
+	render() {
+		return <main>
 			<section>
 				<p>// instruction text goes here</p>
 			</section>
