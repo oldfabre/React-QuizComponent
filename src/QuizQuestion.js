@@ -1,14 +1,14 @@
-import { React, Component } from react;
+import { React, Component } from 'react';
 
 class QuizQuestion extends Component {
 	render() {
 		return <main>
 			<section>
-				<p>// instruction text goes here</p>
+			  <p>Hello</p>
 			</section>
 			<section className="buttons">
 				<ul>
-				//quiz question button logic goes here
+
 				</ul>
 			</section>
 		</main>
